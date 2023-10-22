@@ -1,2 +1,1 @@
-<h1 align="center"> <span style="colour:red;"> Hello 👋, I'm Brian Atuti </span></h1>
-
+<h1 align="center"> <span style="color:red;">Hello 👋, I'm Brian Atuti</span> </h1>
